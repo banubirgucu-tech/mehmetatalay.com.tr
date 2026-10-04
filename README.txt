@@ -1,0 +1,1 @@
+Mehmet Atalay kişisel web sitesi. GitHub Pages için hazırlanmıştır.
